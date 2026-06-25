@@ -1,0 +1,14 @@
+html, body{
+  height: 100%;
+  width:100%;
+}
+body{
+  background-color: #d8797900;
+}
+
+
+input, button{
+  padding: 10px 20px;
+  margin:10px;
+  font-size: 15px;
+}
